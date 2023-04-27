@@ -1,7 +1,20 @@
-ift6759_trees
+IFT6759 Trees
 ==============================
+Code pour le projet du cours IFT6759 sur la détection d'arbres.
 
-A short description of the project.
+### Données
+
+Les données proviennent du concours IDTReeS. Elles sont disponible à: 
+> Graves, Sarah, & Marconi, Sergio. (2020). IDTReeS 2020 Competition Data (Version 4) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.3934932
+
+Nous avons décidé de travailler sur la première tâche, la délimitation de la couronne individuelle d'arbres.
+### Code
+Les principales étapes de notre travail sont les suivantes :
+| Étapes      | Fichier     |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
+
 
 Project Organization
 ------------
