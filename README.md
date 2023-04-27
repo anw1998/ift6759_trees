@@ -12,8 +12,13 @@ Nous avons décidé de travailler sur la première tâche, la délimitation de l
 Les principales étapes de notre travail sont les suivantes :
 | Étapes      | Fichier     |
 | ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+| Data split  | notebooks/data_split.ipynb       |
+| Preprocessing | notebooks/Visualization.ipynb
+| Visualization  | notebooks/Visualization.ipynb        |
+| Faster R-CNN | notebooks/Faster R-CNN.ipynb |
+| YOLOv5 | notebooks/YOLOv5.ipynb |
+| YOLOv7 | notebooks/yolov7_setup.ipynb |
+| Model Evaluation | notebooks/evaluation_idtrees_package.ipynb <br /> notebooks/evaluation_idtrees_package_2.ipynb |
 
 
 Project Organization
